@@ -12,7 +12,7 @@ If you want to learn more on GitHub Classroom see this post:  https://medium.com
 
 ## Student Name
 
-Student Name: **TODO - Please put your name in this README**
+Student Name: **Igor**
 
 ## Problem Description
 
